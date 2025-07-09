@@ -1,0 +1,320 @@
+{
+    "Base": {
+        "time": 2,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                7,
+                4,
+                5,
+                2
+            ],
+            [],
+            [],
+            [],
+            [
+                8
+            ],
+            [
+                6,
+                3,
+                1
+            ]
+        ]
+    },
+    "Implied": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                8
+            ],
+            [
+                2
+            ],
+            [
+                3,
+                6,
+                1
+            ],
+            [
+                7
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    "Implied_Symmetry_On_Sizes": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                7,
+                3
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    "Implied_Symmetry_On_Distances": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                8
+            ],
+            [
+                2
+            ],
+            [
+                3,
+                6,
+                1
+            ],
+            [
+                7
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ]
+        ]
+    },
+    "Implied_Symmetry": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2
+            ],
+            [
+                4
+            ],
+            [
+                6
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                7,
+                3
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    "Symmetry": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                1
+            ],
+            [
+                8
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                2,
+                6
+            ],
+            [
+                7,
+                5
+            ],
+            []
+        ]
+    },
+    "Two_Solvers_Base": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                4,
+                5
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                8
+            ],
+            [],
+            [
+                6,
+                7
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    "Two_Solvers_Implied": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2
+            ],
+            [
+                7,
+                8
+            ],
+            [
+                1
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Two_Solvers_Implied_Symmetry_On_Sizes": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                6
+            ],
+            [
+                7
+            ],
+            [
+                5
+            ],
+            [
+                3
+            ],
+            [
+                1,
+                8,
+                4
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    "Two_Solvers_Implied_Symmetry_On_Distances": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2
+            ],
+            [
+                7,
+                8
+            ],
+            [
+                1
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Two_Solvers_Implied_Symmetry": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                6
+            ],
+            [
+                7
+            ],
+            [
+                5
+            ],
+            [
+                3
+            ],
+            [
+                1,
+                8,
+                4
+            ],
+            [
+                2
+            ]
+        ]
+    },
+    "Two_Solvers_Symmetry": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                3
+            ],
+            [],
+            [
+                2
+            ],
+            [
+                6,
+                4,
+                7
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,314 @@
+{
+    "Gecode_base": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                4,
+                7,
+                3
+            ],
+            [
+                6
+            ],
+            [],
+            [],
+            [
+                8
+            ]
+        ]
+    },
+    "Gecode_base_LNS": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                4,
+                7,
+                3
+            ],
+            [
+                6
+            ],
+            [],
+            [],
+            [
+                8
+            ]
+        ]
+    },
+    "Gecode_LNS_Implied": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                4,
+                7,
+                3
+            ],
+            [
+                6
+            ],
+            [],
+            [],
+            [
+                8
+            ]
+        ]
+    },
+    "Gecode_LNS_Implied_Symmetry_on_Sizes": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                4,
+                7,
+                3
+            ],
+            [
+                6
+            ],
+            [],
+            [],
+            [
+                8
+            ]
+        ]
+    },
+    "Gecode_LNS_Implied_Symmetry_on_Distances": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                4,
+                7,
+                3
+            ],
+            [
+                6
+            ],
+            [],
+            [],
+            [
+                8
+            ]
+        ]
+    },
+    "Gecode_LNS_Implied_Symmetry": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                2,
+                1,
+                5
+            ],
+            [
+                4,
+                7,
+                3
+            ],
+            [
+                6
+            ],
+            [],
+            [],
+            [
+                8
+            ]
+        ]
+    },
+    "Chuffed_base": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                1,
+                8
+            ],
+            [
+                2,
+                7
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Chuffed_LUBY_base": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                1,
+                8
+            ],
+            [
+                2,
+                7
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Chuffed_Implied": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                1,
+                8
+            ],
+            [
+                2,
+                7
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Chuffed_LUBY_Implied": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                1,
+                8
+            ],
+            [
+                2,
+                7
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Chuffed_Implied_Symmetry_on_Distances": {
+        "time": 1,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                1,
+                8
+            ],
+            [
+                2,
+                7
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Chuffed_LUBY_Implied_Symmetry_On_Distances": {
+        "time": 0,
+        "optimal": true,
+        "obj": 322,
+        "sol": [
+            [
+                1,
+                8
+            ],
+            [
+                2,
+                7
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ]
+        ]
+    }
+}

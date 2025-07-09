@@ -1,0 +1,280 @@
+{
+    "Gurobi_Base": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                8
+            ],
+            [
+                1
+            ],
+            [
+                9,
+                5
+            ],
+            [
+                4
+            ],
+            [
+                2,
+                7,
+                3
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Gurobi_Implied": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                4
+            ],
+            [
+                7,
+                9
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ],
+            [
+                8,
+                6
+            ],
+            [
+                5,
+                3
+            ]
+        ]
+    },
+    "Gurobi_Implied_Sym_on_Distances": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                4
+            ],
+            [
+                7,
+                9
+            ],
+            [
+                2
+            ],
+            [
+                1
+            ],
+            [
+                8,
+                6
+            ],
+            [
+                5,
+                3
+            ]
+        ]
+    },
+    "Gurobi_Implied_Sym_on_Sizes": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                2,
+                7
+            ],
+            [
+                1
+            ],
+            [
+                5
+            ],
+            [
+                4
+            ],
+            [
+                3,
+                9
+            ],
+            [
+                6,
+                8
+            ]
+        ]
+    },
+    "Gurobi_Implied_Simmetry": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                2,
+                7
+            ],
+            [
+                1
+            ],
+            [
+                5
+            ],
+            [
+                4
+            ],
+            [
+                3,
+                9
+            ],
+            [
+                6,
+                8
+            ]
+        ]
+    },
+    "Highs_Base": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                2,
+                3
+            ],
+            [],
+            [],
+            [
+                9,
+                6,
+                8
+            ],
+            [
+                4,
+                1
+            ],
+            [
+                5,
+                7
+            ]
+        ]
+    },
+    "Highs_Implied": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                3
+            ],
+            [
+                5,
+                7
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                2
+            ],
+            [
+                9,
+                6
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    "Highs_Implied_Sym_on_Distances": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                3
+            ],
+            [
+                5,
+                7
+            ],
+            [
+                1,
+                4
+            ],
+            [
+                2
+            ],
+            [
+                9,
+                6
+            ],
+            [
+                8
+            ]
+        ]
+    },
+    "Highs_Implied_Sym_on_Sizes": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                3
+            ],
+            [
+                4,
+                1
+            ],
+            [
+                5
+            ],
+            [
+                9,
+                8
+            ],
+            [
+                7,
+                2
+            ],
+            [
+                6
+            ]
+        ]
+    },
+    "Highs_Implied_Simmetry": {
+        "time": 0,
+        "optimal": true,
+        "obj": 226,
+        "sol": [
+            [
+                3
+            ],
+            [
+                4,
+                1
+            ],
+            [
+                5
+            ],
+            [
+                9,
+                8
+            ],
+            [
+                7,
+                2
+            ],
+            [
+                6
+            ]
+        ]
+    }
+}
